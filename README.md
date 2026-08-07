@@ -125,20 +125,22 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sakthi44710&show_icons=true&count_private=true&hide_border=false&bg_color=0A101F&title_color=22D3EE&text_color=A78BFA&icon_color=10B981&border_color=0891B2&border_radius=10" alt="Sakthiprakash's GitHub Stats" height="180px">
-
-  <!-- Streak Stats Card -->
+  <!-- Row 1: Streak (working) + Summary Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=sakthi44710&background=0A101F&border=0891B2&stroke=0891B2&ring=22D3EE&fire=10B981&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=10B981&sideLabels=22D3EE&dates=64748B&border_radius=10" alt="Sakthiprakash's Streak Stats" height="180px">
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakthi44710&theme=github_dark" alt="Sakthiprakash's GitHub Stats" height="180px">
 
   <br><br>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthi44710&layout=compact&count_private=true&hide_border=false&bg_color=0A101F&title_color=22D3EE&text_color=A78BFA&border_color=0891B2&border_radius=10&langs_count=8" alt="Top Languages" height="180px">
+  <!-- Row 2: Language breakdown -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakthi44710&theme=github_dark" alt="Repos Per Language" height="180px">
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakthi44710&theme=github_dark" alt="Most Commit Language" height="180px">
 
-  <!-- GitHub Trophies -->
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=sakthi44710&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" width="100%">
+
+  <!-- Row 3: Full profile overview -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakthi44710&theme=github_dark" alt="Sakthiprakash's Profile Details" width="98%">
 
 </div>
 

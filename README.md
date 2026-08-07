@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- 
   SAKTHIPRAKASH T — Animated GitHub Profile README
   Theme: Futuristic AI Operating System Dashboard
@@ -126,14 +125,20 @@
 
 <div align="center">
 
-  <!-- PHASE 2: GITHUB STATS & STREAK STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sakthi44710&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=A78BFA&border_color=0891B2&icon_color=10B981" alt="Sakthiprakash's GitHub Stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakthi44710&background=0A101F&title=22D3EE&text=A78BFA&border=0891B2&fire=10B981&ring=22D3EE&currStreakLabel=10B981" alt="Sakthiprakash's Streak Stats" width="49%">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sakthi44710&show_icons=true&count_private=true&hide_border=false&bg_color=0A101F&title_color=22D3EE&text_color=A78BFA&icon_color=10B981&border_color=0891B2&border_radius=10" alt="Sakthiprakash's GitHub Stats" height="180px">
+
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com/?user=sakthi44710&background=0A101F&border=0891B2&stroke=0891B2&ring=22D3EE&fire=10B981&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=10B981&sideLabels=22D3EE&dates=64748B&border_radius=10" alt="Sakthiprakash's Streak Stats" height="180px">
 
   <br><br>
 
-  <!-- TOP LANGUAGES CARD -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthi44710&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=A78BFA&border_color=0891B2&icon_color=10B981" alt="Top Languages" width="60%">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthi44710&layout=compact&count_private=true&hide_border=false&bg_color=0A101F&title_color=22D3EE&text_color=A78BFA&border_color=0891B2&border_radius=10&langs_count=8" alt="Top Languages" height="180px">
+
+  <!-- GitHub Trophies -->
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=sakthi44710&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" width="100%">
 
 </div>
 
@@ -175,21 +180,3 @@
 <div align="center">
   <sub>Built with ❤️ by SAKTHIPRAKASH T // Powered by Google AI Ecosystem</sub>
 </div>
-=======
-## Hi there 👋
-
-<!--
-**sakthi44710/sakthi44710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 1fc992374d3eab49b0bc250cd0d65887b68f46bc

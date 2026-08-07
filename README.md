@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- 
   SAKTHIPRAKASH T — Animated GitHub Profile README
   Theme: Futuristic AI Operating System Dashboard
@@ -174,3 +175,21 @@
 <div align="center">
   <sub>Built with ❤️ by SAKTHIPRAKASH T // Powered by Google AI Ecosystem</sub>
 </div>
+=======
+## Hi there 👋
+
+<!--
+**sakthi44710/sakthi44710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 1fc992374d3eab49b0bc250cd0d65887b68f46bc
